@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://goodthinking.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=for-the-badge&logo=appveyor&logoColor=6DB33F"/></a>
+<a href="https://goodthinking.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/#6DB33F-배경색?style=for-the-badge&logo=appveyor&logoColor=6DB33F"/></a>
 <!--
 **meengi07/meengi07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Tistory</title><path d="M0 3a3 3 0 1 0 6 0 3 3 0 0 0-6 0m9 18a3 3 0 1 0 6 0 3 3 0 0 0-6 0m0-9a3 3 0 1 0 6 0 3 3 0 0 0-6 0m0-9a3 3 0 1 0 6 0 3 3 0 0 0-6 0m9 0a3 3 0 1 0 6 0 3 3 0 0 0-6 0"/></svg>
