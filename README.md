@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:74EBD5,100:9FACE6&height=265&section=header&text=Mingi's%20Profile%20&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlign=73&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:74EBD5,100:9FACE6&height=265&section=header&text=Mingi's%20Github%20&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlign=73&fontAlignY=40)
